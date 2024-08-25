@@ -1,0 +1,24 @@
+.home {
+    background: url('https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9A/production/_120424467_joy2.jpg');
+    background-size: cover;
+}
+.buy {
+    background-color: white;
+}
+.tag {
+    background-color: rgb(191, 188, 188);
+}
+.bord {
+    border: 2px solid grey;
+    
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+.wc {
+    background-color: yellow;
+    height: 100%;
+}
